@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flo0Zz92
-- 👀 I’m interested in  la programmation de bot-script  sneakers
+- 👀 I’m interested about bot-script  sneakers
 - 🌱 I’m currently learning  le python et java script
 - 💞️ I’m looking to collaborate on  un bot-script sneakers
 - 📫 How to reach me  twitter: MaximeLeVrai92
